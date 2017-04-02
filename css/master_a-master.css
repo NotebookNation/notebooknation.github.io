@@ -1,0 +1,28 @@
+#u103
+{
+	background-color: #000000;
+}
+
+#u103_align_to_page
+{
+	position: relative;
+}
+
+#u97
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u97::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 40px rgba(255,255,255,0.65), inset 0px 0px 40px rgba(255,255,255,0.65);
+}
+

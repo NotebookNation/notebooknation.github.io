@@ -1,0 +1,58 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="notebooknation.com" resolutions="1x" timestamp="1491157477183">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_c-master.css" crc="3833566508" ref="explicit:quotables:floral:specialty:butterflies"/>
+    <file name="master_b-master.css" crc="336491059" ref="home"/>
+    <file name="master_a-master.css" crc="4130752816" ref="index"/>
+    <file name="index.css" crc="56051963" ref="index"/>
+    <file name="explicit.css" crc="3932797214" ref="explicit"/>
+    <file name="home.css" crc="198587454" ref="home"/>
+    <file name="quotables.css" crc="411614638" ref="quotables"/>
+    <file name="floral.css" crc="223480034" ref="floral"/>
+    <file name="specialty.css" crc="3759980997" ref="specialty"/>
+    <file name="butterflies.css" crc="394677588" ref="butterflies"/>
+  </folder>
+  <folder name="assets">
+    <file name="the-football-playbook-playbook.jpg" crc="261932005" seo="true" mt="1490598218000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:home:floral:butterflies:explicit:quotables:specialty"/>
+    <file name="museutils.js" crc="275725342" ref="index:home:floral:butterflies:explicit:quotables:specialty"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:home:floral:butterflies:explicit:quotables:specialty"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="home:floral:butterflies:explicit:quotables:specialty"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:floral:butterflies:explicit:quotables:specialty"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3967904243" ref="index"/>
+    <file name="notebook nation logo 02.jpg" crc="353036216" seo="true" ref="index"/>
+    <file name="earth-244238.jpg" crc="4001690105" seo="true" ref="home:floral:butterflies:explicit:quotables:specialty"/>
+    <file name="notebook nation logo 02-1.png" crc="215644557" seo="true" ref="home"/>
+    <file name="41qvmfwku7l.jpg" crc="3845295080" seo="true" ref="floral"/>
+    <file name="51qxoz31jrl.jpg" crc="4172895611" seo="true" ref="floral"/>
+    <file name="51bg9cxqqrl.jpg" crc="3969105881" seo="true" ref="floral"/>
+    <file name="51-mlwfnsdl.jpg" crc="3926061084" seo="true" ref="floral"/>
+    <file name="517xdobnbpl.jpg" crc="483920916" seo="true" ref="butterflies"/>
+    <file name="51bfxc2njjl.jpg" crc="43953468" seo="true" ref="butterflies"/>
+    <file name="41evhkuxgll.jpg" crc="196772401" seo="true" ref="butterflies"/>
+    <file name="51ruhgfhpsl.jpg" crc="3841622498" seo="true" ref="butterflies"/>
+    <file name="51sfrpms4bl.jpg" crc="3958583419" seo="true" ref="explicit"/>
+    <file name="41fz61p1hal.jpg" crc="4029255488" seo="true" ref="explicit"/>
+    <file name="51blnagyorl.jpg" crc="3784672375" seo="true" ref="explicit"/>
+    <file name="41rnccg8--l.jpg" crc="322749641" seo="true" ref="explicit"/>
+    <file name="51s-8qeml8l.jpg" crc="3846721859" seo="true" ref="quotables"/>
+    <file name="51idl0tpjrl.jpg" crc="189204212" seo="true" ref="quotables"/>
+    <file name="515r8d4b10l.jpg" crc="4283332736" seo="true" ref="quotables"/>
+    <file name="51u7uclrf6l.jpg" crc="65472847" seo="true" ref="quotables"/>
+    <file name="51bqtxpfykl.jpg" crc="257016757" seo="true" ref="specialty"/>
+    <file name="41xmzccfxtl.jpg" crc="392672530" seo="true" ref="specialty"/>
+    <file name="51utjli70gl.jpg" crc="4120484462" seo="true" ref="specialty"/>
+    <file name="519kgd-gmql.jpg" crc="459333492" seo="true" ref="specialty"/>
+  </folder>
+  <file name="index.html" crc="3892022577" seo="true" mt="1491157426172" redirect="true"/>
+  <file name="home.html" crc="230882393" seo="true" mt="1491157400014" redirect="true"/>
+  <file name="floral.html" crc="80420928" seo="true" mt="1491157400016" redirect="true"/>
+  <file name="butterflies.html" crc="320546409" seo="true" mt="1491157400016" redirect="true"/>
+  <file name="explicit.html" crc="313553924" seo="true" mt="1491157400016" redirect="true"/>
+  <file name="quotables.html" crc="4248520101" seo="true" mt="1491157400016" redirect="true"/>
+  <file name="specialty.html" crc="4165106900" seo="true" mt="1491157400016" redirect="true"/>
+</manifest>
