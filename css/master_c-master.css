@@ -16,58 +16,46 @@
 	position: relative;
 }
 
-#menuu1010
+#menuu1969
 {
-	border-style: none;
-	border-color: transparent;
+	-pie-box-shadow: 6px 6px 8px #59596E;
+	box-shadow: 6px 6px 8px rgba(0,0,32,0.65);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #100D17;
+	position: relative;
+}
+
+#menuu1969::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: -2px;
+	left: -2px;
+	bottom: -2px;
+	right: -2px;
+	box-shadow: inset 0px 0px 3px rgba(16,27,204,0.86), inset 0px 0px 3px rgba(16,27,204,0.86);
+}
+
+#u2012,#u2015
+{
 	background-color: transparent;
 	position: relative;
 }
 
-#u1032,#u1033
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u1033:hover
+#u2015:hover
 {
 	background-color: #999999;
 }
 
-#u1033:active
+#u2015:active
 {
 	background-color: #6B6B6B;
 }
 
-#u1036-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u1046,#u1049
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u1033.MuseMenuActive,#u1049:hover
-{
-	background-color: #999999;
-}
-
-#u1049:active
-{
-	background-color: #6B6B6B;
-}
-
-#u1051-4
+#u2017-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -78,23 +66,23 @@
 	position: relative;
 }
 
-#u1018,#u1021
+#u2019,#u2022
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u1049.MuseMenuActive,#u1021:hover
+#u2015.MuseMenuActive,#u2022:hover
 {
 	background-color: #999999;
 }
 
-#u1021:active
+#u2022:active
 {
 	background-color: #6B6B6B;
 }
 
-#u1022-4
+#u2025-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -105,23 +93,23 @@
 	position: relative;
 }
 
-#u1011,#u1014
+#u1970,#u1971
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u1021.MuseMenuActive,#u1014:hover
+#u2022.MuseMenuActive,#u1971:hover
 {
 	background-color: #999999;
 }
 
-#u1014:active
+#u1971:active
 {
 	background-color: #6B6B6B;
 }
 
-#u1017-4
+#u1973-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -132,23 +120,23 @@
 	position: relative;
 }
 
-#u1053,#u1054
+#u2005,#u2006
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u1014.MuseMenuActive,#u1054:hover
+#u1971.MuseMenuActive,#u2006:hover
 {
 	background-color: #999999;
 }
 
-#u1054:active
+#u2006:active
 {
 	background-color: #6B6B6B;
 }
 
-#u1056-4
+#u2007-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -159,23 +147,23 @@
 	position: relative;
 }
 
-#u1039,#u1040
+#u1977,#u1978
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u1054.MuseMenuActive,#u1040:hover
+#u2006.MuseMenuActive,#u1978:hover
 {
 	background-color: #999999;
 }
 
-#u1040:active
+#u1978:active
 {
 	background-color: #6B6B6B;
 }
 
-#u1043-4
+#u1980-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -186,28 +174,82 @@
 	position: relative;
 }
 
-#u1025,#u1026
+#u1991,#u1994
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u1040.MuseMenuActive,#u1026:hover
+#u1978.MuseMenuActive,#u1994:hover
 {
 	background-color: #999999;
 }
 
-#u1026:active
+#u1994:active
 {
 	background-color: #6B6B6B;
 }
 
-#u1026.MuseMenuActive
+#u1996-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1998,#u1999
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1994.MuseMenuActive,#u1999:hover
 {
 	background-color: #999999;
 }
 
-#u1028-4
+#u1999:active
+{
+	background-color: #6B6B6B;
+}
+
+#u2000-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1984,#u1985
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1999.MuseMenuActive,#u1985:hover
+{
+	background-color: #999999;
+}
+
+#u1985:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1985.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u1986-4
 {
 	border-style: none;
 	border-color: transparent;
